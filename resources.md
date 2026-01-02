@@ -16,6 +16,8 @@ DeepMind, [AlphaGo - The Movie](https://www.youtube.com/watch?v=WXuK6gekU1Y)
 
 Timnit Gebru, [Towards transparency in AI, Methods and Challenges](https://www.youtube.com/watch?v=0GrknKMfdTM)
 
+Dan McQuillan, [Resisting AI & more](https://danmcquillan.org/)
+
 Joy Buolamwini, [Stanford HAI 2019 Fall Conference - Keynote: The Coded Gaze](https://www.youtube.com/watch?v=Mk5gLInf7So)
 
 Dr. Peaks Krafft, [Algorithmic bias with – UAL Tech for All Conference](https://www.youtube.com/watch?v=W3SMQ9XSZdw&list=PL2Jl__jNKUOEUn48__nlmuAbxFT5limGt&index=3)
