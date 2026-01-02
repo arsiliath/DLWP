@@ -18,6 +18,7 @@
 **/oxford-pets
 
 **/models
+**/*.keras
 
 # PyTorch experiiments
 **/*.PT.ipynb
