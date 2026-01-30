@@ -14,5 +14,6 @@ dependencies:
  - pytorch
  - jax
  - kagglehub
+ - pydot
  - pip:
    - keras-hub
