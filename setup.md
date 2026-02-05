@@ -28,13 +28,13 @@ On Windows, I recommend allowing Miniforge to be your primary Python provider an
 Once this is installed, in a new terminal, install the course dependencies:
 
 ```bash
-$ mamba env create -f environment.yml
+$ mamba env create -f environment.yaml
 ```
 
 If you need to update the environment using the YAML file, do this:
 
 ```bash
-$ mamba env update -f environment.yml
+$ mamba env update -f environment.yaml
 ```
 
 Now you can activate the environment:
