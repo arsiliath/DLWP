@@ -20,6 +20,9 @@
 **/models
 **/*.keras
 
-# PyTorch experiiments
+# PyTorch experiments
 **/*.PT.ipynb
 **/MNIST
+
+# vscode
+**/.vscode
