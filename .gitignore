@@ -16,6 +16,7 @@
 **/jena
 **/coco
 **/oxford-pets
+**/text-generation
 
 **/models
 **/*.keras
