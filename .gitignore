@@ -17,6 +17,7 @@
 **/coco
 **/oxford-pets
 **/text-generation
+**/image-generation
 
 **/models
 **/*.keras
